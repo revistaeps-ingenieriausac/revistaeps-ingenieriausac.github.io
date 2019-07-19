@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+    <head>
+        <meta name="dtb:uid" content="9781573878296"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Edición Piloto - Revista EPS</text>
+    </docTitle>
+    <docAuthor>
+        <text>Unidad de Ejercicio Profesional Supervisado (EPS), Revista Digital, Universidad de San Carlos de Guatemala</text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="cover" playOrder="1">
+            <navLabel>
+                <text>Cover</text>
+            </navLabel>
+            <content src="cover.xhtml"/>
+        </navPoint>
+        <navPoint id="editorial" playOrder="2">
+            <navLabel>
+                <text>Editorial</text>
+            </navLabel>
+            <content src="editorial.xhtml"/>
+        </navPoint>
+        <navPoint id="toc" playOrder="3">
+            <navLabel>
+                <text>Contenido</text>
+            </navLabel>
+            <content src="toc.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="4" id="chap-1">
+            <navLabel>
+                <text>
+                Historia: El Ejercicio Profesional Supervisado en la FIUSAC. Sus orígenes (I parte)
+                </text>
+            </navLabel>
+            <content src="201901-jmerck.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="5" id="chap-2">
+            <navLabel>
+                <text>
+                Artículo 1: Consejos Para Realizar Una Buena Práctica Profesional
+                </text>
+            </navLabel>
+            <content src="201901-oargueta.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="6" id="chap-3">
+            <navLabel>
+                <text>
+                Artículo 2: Titulo Pendiente
+                </text>
+            </navLabel>
+            <content src="201901-bfuentes.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="7" id="chap-4">
+            <navLabel>
+                <text>
+                Artículo 3: Optimización de procesos a través de un EPS
+                </text>
+            </navLabel>
+            <content src="201901-rherrera.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="8" id="chap-5">
+            <navLabel>
+                <text>
+                Artículo 4: Diseño y plan de mantenimiento de una línea de embotellado de agua de
+                    coco para la empresa Comeragua S.A. / Gordian®
+                </text>
+            </navLabel>
+            <content src="201901-lcalmo.xhtml"/>
+        </navPoint>
+        <navPoint playOrder="9" id="chap-6">
+            <navLabel>
+                <text>
+                Artículo 5: Plantilla Ejemplo
+                </text>
+            </navLabel>
+            <content src="chapter004.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>

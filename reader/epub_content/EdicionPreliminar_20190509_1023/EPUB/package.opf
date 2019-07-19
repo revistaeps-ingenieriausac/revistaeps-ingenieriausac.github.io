@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="p9781573878296">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title id="title">
+            Edición Piloto - Revista EPS
+        </dc:title>
+        <dc:creator>
+            Unidad de Ejercicio Profesional Supervisado (EPS), Universidad de San Carlos de Guatemala
+        </dc:creator>
+        <dc:publisher>
+            Facultad de Ingeniería 
+        </dc:publisher>
+        <dc:rights>
+            Edición Libre
+        </dc:rights>
+        <dc:identifier id="p9781573878296">9781573878296</dc:identifier>
+        <dc:source id="src-id">urn:isbn:9781573878296</dc:source>
+        <dc:language>es-GT</dc:language>
+        <meta property="dcterms:modified">
+            2019-04-29T12:00:00Z
+        </meta>
+    </metadata>
+    <manifest>
+        <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="cover-image" properties="cover-image" href="images/03-00-Portada.png" media-type="image/png"/>
+
+
+        <item id="css_style01" href="css/animate.css" media-type="text/css"/>
+        <item id="css_style02" href="css/bootstrap.min.css" media-type="text/css"/>
+        <item id="css_style03" href="css/classy-nav.css" media-type="text/css"/>
+        <item id="css_style04" href="css/epub.css" media-type="text/css"/>
+        <item id="css_style06" href="css/magnific-popup.css" media-type="text/css"/>
+        <item id="css_style07" href="css/mobile-menu.css" media-type="text/css"/>
+        <item id="css_style08" href="css/nice-select.css" media-type="text/css"/>
+        <item id="css_style09" href="css/offcanvas.min.css" media-type="text/css"/>
+        <item id="css_style10" href="css/owl.carousel.css" media-type="text/css"/>
+        <item id="css_style11" href="css/owl.carousel.min.css" media-type="text/css"/>
+        <item id="css_style12" href="css/owl.theme.default.min.css" media-type="text/css"/>
+        <item id="css_style13" href="css/style.css" media-type="text/css"/>
+        <item id="css_style14" href="css/stylesheet.css" media-type="text/css"/>
+        <item id="css_style15" href="css/themify-icons.css" media-type="text/css"/>
+        <item id="css_style16" href="fonts/font-awesome.min.css" media-type="text/css"/>
+
+
+
+        <item id="css_style17" href="css/internal.css" media-type="text/css"/>
+        <item id="css_style18" href="css/internal2.css" media-type="text/css"/>
+
+
+
+        <item id="ncx" properties="nav" href="ncx.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ncx1" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+
+        <item id="editorial" href="editorial.xhtml" media-type="application/xhtml+xml"/>
+        <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml"/>
+
+        <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+        
+		
+		
+		
+		
+		
+        
+        
+        <item id="chapter004" href="chapter004.xhtml" media-type="application/xhtml+xml"/>
+
+
+        <item id="ecys.jpg" href="images/ecys.jpg" media-type="image/jpeg"/>
+
+
+
+        <item id="classy.eot" href="fonts/classy.eot" media-type="application/vnd.ms-fontobject"/>
+        <item id="classy.svg" href="fonts/classy.svg" media-type="application/vnd.ms-opentype"/>
+        <item id="classy.ttf" href="fonts/classy.ttf" media-type="application/x-font-ttf"/>
+        <item id="classy.woff" href="fonts/classy.woff" media-type="application/font-woff"/>
+
+        <item id="FontAwesome.otf" href="fonts/FontAwesome.otf" media-type="application/x-font-opentype"/>
+
+        <item id="fontawesome-webfont.eot" href="fonts/fontawesome-webfont.eot" media-type="application/vnd.ms-fontobject"/>
+        <item id="fontawesome-webfont.svg" href="fonts/fontawesome-webfont.svg" media-type="application/vnd.ms-opentype"/>
+        <item id="fontawesome-webfont.ttf" href="fonts/fontawesome-webfont.ttf" media-type="application/x-font-ttf"/>
+        <item id="fontawesome-webfont.woff" href="fonts/fontawesome-webfont.woff" media-type="application/font-woff"/>
+        <item id="fontawesome-webfont.woff2" href="fonts/fontawesome-webfont.woff2" media-type="application/font-woff2"/>
+
+        <item id="glyphicons-halflings-regular.eot" href="fonts/glyphicons-halflings-regular.eot" media-type="application/vnd.ms-fontobject"/>
+        <item id="glyphicons-halflings-regular.svg" href="fonts/glyphicons-halflings-regular.svg" media-type="application/vnd.ms-opentype"/>
+        <item id="glyphicons-halflings-regular.ttf" href="fonts/glyphicons-halflings-regular.ttf" media-type="application/x-font-ttf"/>
+        <item id="glyphicons-halflings-regular.woff" href="fonts/glyphicons-halflings-regular.woff" media-type="application/font-woff"/>
+        <item id="glyphicons-halflings-regular.woff2" href="fonts/glyphicons-halflings-regular.woff2" media-type="application/font-woff2"/>
+
+        <item id="themify.eot" href="fonts/themify.eot" media-type="application/vnd.ms-fontobject"/>
+        <item id="themify.svg" href="fonts/themify.svg" media-type="application/vnd.ms-opentype"/>
+        <item id="themify.ttf" href="fonts/themify.ttf" media-type="application/x-font-ttf"/>
+        <item id="themify.woff" href="fonts/themify.woff" media-type="application/font-woff"/>
+
+
+        <item id="images_201901-email_button.jpg" href="images/201901-email_button.jpg" media-type="image/jpeg"/>
+        
+		<item id="article_201901-jmerck" href="201901-jmerck.xhtml" media-type="application/xhtml+xml"/>
+		
+		<item id="article_201901-oargueta" href="201901-oargueta.xhtml" media-type="application/xhtml+xml"/>
+		
+		<item id="article_201901-bfuentes" href="201901-bfuentes.xhtml" media-type="application/xhtml+xml"/>
+		<item id="images_201901-bfuentes-image01.jpg" href="images/201901-bfuentes-image01.jpg" media-type="image/jpeg"/>
+
+		<item id="article_201901-rherrera" href="201901-rherrera.xhtml" media-type="application/xhtml+xml"/>
+        <item id="images_201901-rherrera-imagen01.png" href="images/201901-rherrera-imagen01.png" media-type="image/png"/>
+        <item id="images_201901-rherrera-imagen02.png" href="images/201901-rherrera-imagen02.png" media-type="image/png"/>
+
+		<item id="article_201901-lcalmo" href="201901-lcalmo.xhtml" media-type="application/xhtml+xml"/>
+        <item id="images_201901-lcalmo-imagen01.jpg" href="images/201901-lcalmo-imagen01.jpg" media-type="image/jpeg"/>
+        <item id="images_201901-lcalmo-imagen02.png" href="images/201901-lcalmo-imagen02.png" media-type="image/png"/>
+        <item id="images_201901-lcalmo-imagen03.png" href="images/201901-lcalmo-imagen03.png" media-type="image/png"/>
+
+
+
+        <item id="js5" href="script/bootstrap.min.js" media-type="text/javascript"/>
+        <item id="js7" href="script/jquery.easing.min.js" media-type="text/javascript"/>
+        <item id="js8" href="script/jquery.min.js" media-type="text/javascript"/>
+        <item id="js4" href="script/jquery-1.3.2.js" media-type="text/javascript"/>
+        <item id="js6" href="script/jquery-2.1.4.min.js" media-type="text/javascript"/>
+        <item id="js9" href="script/mobile-menu.js" media-type="text/javascript"/>
+        <item id="js10" href="script/offcanvas.min.js" media-type="text/javascript"/>
+        <item id="js114" href="script/owl.carousel.min.js" media-type="text/javascript"/>
+        <item id="js124" href="script/script.js" media-type="text/javascript"/>
+        <item id="js134" href="script/smoothscroll.js" media-type="text/javascript"/>
+        <item id="js2" href="script/Snake.js" media-type="text/javascript"/>
+        <item id="js3" href="script/SnakeCollection.js" media-type="text/javascript"/>
+        <item id="js" href="script/tree.js" media-type="text/javascript"/>
+
+
+
+
+    </manifest>
+    <spine toc="ncx1">
+        <itemref idref="cover" linear="yes"/>
+        <itemref idref="titlepage" linear="yes"/>
+        <itemref idref="editorial" linear="yes"/>
+        <itemref idref="toc" linear="yes"/>
+		<itemref linear="yes" idref="article_201901-jmerck"/>
+		<itemref linear="yes" idref="article_201901-oargueta"/>
+        <itemref linear="yes" idref="article_201901-bfuentes"/>
+        <itemref linear="yes" idref="article_201901-rherrera"/>
+        <itemref linear="yes" idref="article_201901-lcalmo"/>
+        <itemref linear="yes" idref="chapter004"/>
+        <itemref linear="yes" idref="ncx"/>
+    </spine>
+</package>

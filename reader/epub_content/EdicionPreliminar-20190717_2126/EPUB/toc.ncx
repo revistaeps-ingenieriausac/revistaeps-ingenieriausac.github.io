@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:9245d671-a7fd-4cf5-9f13-6b799859c268" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover_jpg" />
+  </head>
+  <docTitle>
+    <text>Revista de la Unidad de Prácticas de Ingeniería y EPS</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Revista de la Unidad de Prácticas de Ingeniería y EPS</text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Revista de la Unidad de Prácticas de Ingeniería y EPS</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#revista-de-la-unidad-de-prácticas-de-ingeniería-y-eps" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>Editorial</text>
+      </navLabel>
+      <content src="text/ch002.xhtml#index" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>Directorio</text>
+      </navLabel>
+      <content src="text/ch003.xhtml#directorio" />
+      <navPoint id="navPoint-4">
+        <navLabel>
+          <text>Director de la Revista</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#director-de-la-revista" />
+      </navPoint>
+      <navPoint id="navPoint-5">
+        <navLabel>
+          <text>Editor en Jefe</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#editor-en-jefe" />
+      </navPoint>
+      <navPoint id="navPoint-6">
+        <navLabel>
+          <text>Coeditores</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#coeditores" />
+      </navPoint>
+      <navPoint id="navPoint-7">
+        <navLabel>
+          <text>Consejo Editorial</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#consejo-editorial" />
+      </navPoint>
+      <navPoint id="navPoint-8">
+        <navLabel>
+          <text>Comité Editorial</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#comite-editorial" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>1 Unidad de Prácticas de Ingeniería y Ejercicio Profesional Supervisado</text>
+      </navLabel>
+      <content src="text/ch004.xhtml#unidadeps" />
+      <navPoint id="navPoint-10">
+        <navLabel>
+          <text>Introducción</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#introduccion" />
+      </navPoint>
+      <navPoint id="navPoint-11">
+        <navLabel>
+          <text>Misión</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#mision" />
+      </navPoint>
+      <navPoint id="navPoint-12">
+        <navLabel>
+          <text>Visión</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#vision" />
+      </navPoint>
+      <navPoint id="navPoint-13">
+        <navLabel>
+          <text>Objetivos</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#objetivos" />
+        <navPoint id="navPoint-14">
+          <navLabel>
+            <text>General</text>
+          </navLabel>
+          <content src="text/ch004.xhtml#general" />
+        </navPoint>
+        <navPoint id="navPoint-15">
+          <navLabel>
+            <text>Específicos</text>
+          </navLabel>
+          <content src="text/ch004.xhtml#especificos" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-16">
+        <navLabel>
+          <text>Organigrama</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#organigrama" />
+      </navPoint>
+      <navPoint id="navPoint-17">
+        <navLabel>
+          <text>Personal Administrativo y Docente</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#personal-administrativo-y-docente" />
+        <navPoint id="navPoint-18">
+          <navLabel>
+            <text>Descripción de Personal Administrativo y Docente</text>
+          </navLabel>
+          <content src="text/ch004.xhtml#descripcion-de-personal-administrativo-y-docente" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19">
+      <navLabel>
+        <text>2 El Ejercicio Profesional Supervisado en la FIUSAC. Sus orígenes (I parte)</text>
+      </navLabel>
+      <content src="text/ch005.xhtml#jmerck" />
+      <navPoint id="navPoint-20">
+        <navLabel>
+          <text>Historia</text>
+        </navLabel>
+        <content src="text/ch005.xhtml#historia" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21">
+      <navLabel>
+        <text>3 Consejos para realizar una Buena Práctica Profesional</text>
+      </navLabel>
+      <content src="text/ch006.xhtml#oargueta" />
+    </navPoint>
+    <navPoint id="navPoint-22">
+      <navLabel>
+        <text>4 Mejores prácticas para un EPS Exitoso</text>
+      </navLabel>
+      <content src="text/ch007.xhtml#bfuentes" />
+      <navPoint id="navPoint-23">
+        <navLabel>
+          <text>Resumen</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#resumen" />
+      </navPoint>
+      <navPoint id="navPoint-24">
+        <navLabel>
+          <text>Abstract</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#abstract" />
+      </navPoint>
+      <navPoint id="navPoint-25">
+        <navLabel>
+          <text>Palabras Clave:</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#palabras-clave" />
+      </navPoint>
+      <navPoint id="navPoint-26">
+        <navLabel>
+          <text>4.1 Introducción</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#introduccion-1" />
+      </navPoint>
+      <navPoint id="navPoint-27">
+        <navLabel>
+          <text>4.2 Artículo</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#articulo" />
+      </navPoint>
+      <navPoint id="navPoint-28">
+        <navLabel>
+          <text>4.3 Conclusiones</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#conclusiones" />
+      </navPoint>
+      <navPoint id="navPoint-29">
+        <navLabel>
+          <text>4.4 Referencias</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#referencias" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-30">
+      <navLabel>
+        <text>5 Tratamiento de los Desechos y su Aprovechamiento en la Generación de Energía Eléctrica</text>
+      </navLabel>
+      <content src="text/ch008.xhtml#gfong" />
+      <navPoint id="navPoint-31">
+        <navLabel>
+          <text>Resumen</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#resumen-1" />
+      </navPoint>
+      <navPoint id="navPoint-32">
+        <navLabel>
+          <text>Abstract</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#abstract-1" />
+      </navPoint>
+      <navPoint id="navPoint-33">
+        <navLabel>
+          <text>Palabras Clave:</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#palabras-clave-1" />
+      </navPoint>
+      <navPoint id="navPoint-34">
+        <navLabel>
+          <text>5.1 Introducción</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#introduccion-2" />
+      </navPoint>
+      <navPoint id="navPoint-35">
+        <navLabel>
+          <text>5.2 Artículo</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#articulo-1" />
+        <navPoint id="navPoint-36">
+          <navLabel>
+            <text>5.2.1 Producción de desechos sólidos</text>
+          </navLabel>
+          <content src="text/ch008.xhtml#produccion-de-desechos-solidos" />
+        </navPoint>
+        <navPoint id="navPoint-37">
+          <navLabel>
+            <text>5.2.2 Producción de aguas residuales ordinarias</text>
+          </navLabel>
+          <content src="text/ch008.xhtml#produccion-de-aguas-residuales-ordinarias" />
+        </navPoint>
+        <navPoint id="navPoint-38">
+          <navLabel>
+            <text>5.2.3 Diseño del sistema de tratamiento</text>
+          </navLabel>
+          <content src="text/ch008.xhtml#diseno-del-sistema-de-tratamiento" />
+        </navPoint>
+        <navPoint id="navPoint-39">
+          <navLabel>
+            <text>5.2.4 Desechos sólidos orgánicos:</text>
+          </navLabel>
+          <content src="text/ch008.xhtml#desechos-solidos-organicos" />
+        </navPoint>
+        <navPoint id="navPoint-40">
+          <navLabel>
+            <text>5.2.5 Agua residual tipo ordinaria</text>
+          </navLabel>
+          <content src="text/ch008.xhtml#agua-residual-tipo-ordinaria" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-41">
+        <navLabel>
+          <text>5.3 Conclusiones</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#conclusiones-1" />
+      </navPoint>
+      <navPoint id="navPoint-42">
+        <navLabel>
+          <text>5.4 Referencias</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#referencias-1" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-43">
+      <navLabel>
+        <text>6 Diseño y plan de mantenimiento de una línea de embotellado de agua de coco para la empresa Comeragua S.A. / Gordian®</text>
+      </navLabel>
+      <content src="text/ch009.xhtml#lcalmo" />
+      <navPoint id="navPoint-44">
+        <navLabel>
+          <text>Resumen</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#resumen-2" />
+      </navPoint>
+      <navPoint id="navPoint-45">
+        <navLabel>
+          <text>Abstract</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#abstract-2" />
+      </navPoint>
+      <navPoint id="navPoint-46">
+        <navLabel>
+          <text>Palabras Clave:</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#palabras-clave-2" />
+      </navPoint>
+      <navPoint id="navPoint-47">
+        <navLabel>
+          <text>6.1 Introducción</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#introduccion-3" />
+      </navPoint>
+      <navPoint id="navPoint-48">
+        <navLabel>
+          <text>6.2 Artículo</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#articulo-2" />
+        <navPoint id="navPoint-49">
+          <navLabel>
+            <text>6.2.1 El agua de coco</text>
+          </navLabel>
+          <content src="text/ch009.xhtml#el-agua-de-coco" />
+        </navPoint>
+        <navPoint id="navPoint-50">
+          <navLabel>
+            <text>6.2.2 Embotellado de bebidas</text>
+          </navLabel>
+          <content src="text/ch009.xhtml#embotellado-de-bebidas" />
+        </navPoint>
+        <navPoint id="navPoint-51">
+          <navLabel>
+            <text>6.2.3 Línea de embotellado de agua de coco</text>
+          </navLabel>
+          <content src="text/ch009.xhtml#linea-de-embotellado-de-agua-de-coco" />
+        </navPoint>
+        <navPoint id="navPoint-52">
+          <navLabel>
+            <text>6.2.4 Plan de mantenimiento</text>
+          </navLabel>
+          <content src="text/ch009.xhtml#plan-de-mantenimiento" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-53">
+        <navLabel>
+          <text>6.3 Conclusiones</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#conclusiones-2" />
+      </navPoint>
+      <navPoint id="navPoint-54">
+        <navLabel>
+          <text>6.4 Referencias</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#referencias-2" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-55">
+      <navLabel>
+        <text>7 Optimización de procesos a través de un EPS</text>
+      </navLabel>
+      <content src="text/ch010.xhtml#rherrera" />
+      <navPoint id="navPoint-56">
+        <navLabel>
+          <text>Resumen</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#resumen-3" />
+      </navPoint>
+      <navPoint id="navPoint-57">
+        <navLabel>
+          <text>Abstract</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#abstract-3" />
+      </navPoint>
+      <navPoint id="navPoint-58">
+        <navLabel>
+          <text>Palabras Clave:</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#palabras-clave-3" />
+      </navPoint>
+      <navPoint id="navPoint-59">
+        <navLabel>
+          <text>7.1 Introducción</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#introduccion-4" />
+      </navPoint>
+      <navPoint id="navPoint-60">
+        <navLabel>
+          <text>7.2 Artículo</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#articulo-3" />
+        <navPoint id="navPoint-61">
+          <navLabel>
+            <text>7.2.1 Problema</text>
+          </navLabel>
+          <content src="text/ch010.xhtml#problema" />
+        </navPoint>
+        <navPoint id="navPoint-62">
+          <navLabel>
+            <text>7.2.2 Solución planteada</text>
+          </navLabel>
+          <content src="text/ch010.xhtml#solucion-planteada" />
+        </navPoint>
+        <navPoint id="navPoint-63">
+          <navLabel>
+            <text>7.2.3 Desarrollo e implementación del proyecto</text>
+          </navLabel>
+          <content src="text/ch010.xhtml#desarrollo-e-implementacion-del-proyecto" />
+        </navPoint>
+        <navPoint id="navPoint-64">
+          <navLabel>
+            <text>7.2.4 Proyecto implementado</text>
+          </navLabel>
+          <content src="text/ch010.xhtml#proyecto-implementado" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-65">
+        <navLabel>
+          <text>7.3 Conclusiones</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#conclusiones-3" />
+      </navPoint>
+      <navPoint id="navPoint-66">
+        <navLabel>
+          <text>7.4 Referencias</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#referencias-3" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67">
+      <navLabel>
+        <text>8 Programa Facebook Live y su aplicación en el campo de la docencia</text>
+      </navLabel>
+      <content src="text/ch011.xhtml#cchicojay" />
+      <navPoint id="navPoint-68">
+        <navLabel>
+          <text>Resumen</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#resumen-4" />
+      </navPoint>
+      <navPoint id="navPoint-69">
+        <navLabel>
+          <text>Abstract</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#abstract-4" />
+      </navPoint>
+      <navPoint id="navPoint-70">
+        <navLabel>
+          <text>Palabras Clave:</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#palabras-clave-4" />
+      </navPoint>
+      <navPoint id="navPoint-71">
+        <navLabel>
+          <text>8.1 Introducción</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#introduccion-5" />
+      </navPoint>
+      <navPoint id="navPoint-72">
+        <navLabel>
+          <text>8.2 Artículo</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#articulo-4" />
+        <navPoint id="navPoint-73">
+          <navLabel>
+            <text>8.2.1 Antecedentes</text>
+          </navLabel>
+          <content src="text/ch011.xhtml#antecedentes" />
+        </navPoint>
+        <navPoint id="navPoint-74">
+          <navLabel>
+            <text>8.2.2 La Web 2.0</text>
+          </navLabel>
+          <content src="text/ch011.xhtml#la-web-2.0" />
+        </navPoint>
+        <navPoint id="navPoint-75">
+          <navLabel>
+            <text>8.2.3 Las redes sociales</text>
+          </navLabel>
+          <content src="text/ch011.xhtml#las-redes-sociales" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-76">
+        <navLabel>
+          <text>8.3 Objetivos</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#objetivos-1" />
+      </navPoint>
+      <navPoint id="navPoint-77">
+        <navLabel>
+          <text>8.4 Facebook dentro de un espacio virtual de aprendizaje</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#facebook-dentro-de-un-espacio-virtual-de-aprendizaje" />
+        <navPoint id="navPoint-78">
+          <navLabel>
+            <text>8.4.1 Streaming</text>
+          </navLabel>
+          <content src="text/ch011.xhtml#streaming" />
+        </navPoint>
+        <navPoint id="navPoint-79">
+          <navLabel>
+            <text>8.4.2 Facebook Live</text>
+          </navLabel>
+          <content src="text/ch011.xhtml#facebook-live" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-80">
+        <navLabel>
+          <text>8.5 Procedimiento para efectuar trasmisión de clase en vivo por Facebook Live</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#procedimiento-para-efectuar-trasmision-de-clase-en-vivo-por-facebook-live" />
+        <navPoint id="navPoint-81">
+          <navLabel>
+            <text>8.5.1 Transmisión de videos</text>
+          </navLabel>
+          <content src="text/ch011.xhtml#transmision-de-videos" />
+        </navPoint>
+        <navPoint id="navPoint-82">
+          <navLabel>
+            <text>8.5.2 Ensayo en el curso instrumentación mecánica.</text>
+          </navLabel>
+          <content src="text/ch011.xhtml#ensayo-en-el-curso-instrumentacion-mecanica." />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-83">
+        <navLabel>
+          <text>8.6 Ensayo en el Seminario de EPS</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#ensayo-en-el-seminario-de-eps" />
+      </navPoint>
+      <navPoint id="navPoint-84">
+        <navLabel>
+          <text>8.7 Resultados</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#resultados" />
+      </navPoint>
+      <navPoint id="navPoint-85">
+        <navLabel>
+          <text>8.8 Discusión de resultados</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#discusion-de-resultados" />
+      </navPoint>
+      <navPoint id="navPoint-86">
+        <navLabel>
+          <text>8.9 Conclusiones</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#conclusiones-4" />
+      </navPoint>
+      <navPoint id="navPoint-87">
+        <navLabel>
+          <text>8.10 Referencias</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#referencias-4" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
