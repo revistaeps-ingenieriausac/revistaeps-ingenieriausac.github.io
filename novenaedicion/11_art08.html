@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="es" xml:lang="es">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>8 Criptografía postcuántica | Revista digital de la unidad de prácticas de ingeniería y EPS</title>
+  <meta name="description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
+  <meta name="generator" content="bookdown 0.42 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="8 Criptografía postcuántica | Revista digital de la unidad de prácticas de ingeniería y EPS" />
+  <meta property="og:type" content="book" />
+  <meta property="og:image" content="/images/cover.png" />
+  <meta property="og:description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="8 Criptografía postcuántica | Revista digital de la unidad de prácticas de ingeniería y EPS" />
+  
+  <meta name="twitter:description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
+  <meta name="twitter:image" content="/images/cover.png" />
+
+<meta name="author" content="Unidad de Prácticas de Ingeniería y Ejercicio Profesional Supervisado" />
+
+
+<meta name="date" content="2026-04-12" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="10_art07.html"/>
+<link rel="next" href="12_art09.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+<link rel="stylesheet" href="css/stylePre.css" type="text/css" />
+<link rel="stylesheet" href="css/toc.css" type="text/css" />
+<link rel="stylesheet" href="css/style-images.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./"><img src="images/logorevista.png" alt="RevistaDigital" width="100%" height="100%"></a></li>
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="portada.html"><a href="portada.html"><i class="fa fa-check"></i>Portada</a></li>
+<li class="chapter" data-level="" data-path="00_preface.html"><a href="00_preface.html"><i class="fa fa-check"></i>Editorial</a></li><li class="chapter" data-level="" data-path="01_nomina.html"><a href="01_nomina.html"><i class="fa fa-check"></i>Nómina de Junta Directiva</a></li>
+<li class="chapter" data-level="" data-path="02_directorio.html"><a href="02_directorio.html"><i class="fa fa-check"></i>Directorio</a></li>
+<li class="chapter" data-level="" data-path="03_comite.html"><a href="03_comite.html"><i class="fa fa-check"></i>Comité Editorial</a></li>
+<li class="chapter" data-level="" data-path="dron.html"><a href="dron.html"><i class="fa fa-check"></i>Experiencia aérea</a></li>
+<li class="chapter" data-level="1" data-path="04_art01.html"><a href="04_art01.html"><i class="fa fa-check"></i><b>1</b> Soluciones tecnológicas para comunidades vulnerables de Centroamérica</a><ul>
+<li class="chapter" data-level="1.1" data-path="04_art01.html"><a href="04_art01.html#resumen"><i class="fa fa-check"></i><b>1.1</b> Resumen</a></li>
+<li class="chapter" data-level="1.2" data-path="04_art01.html"><a href="04_art01.html#abstract"><i class="fa fa-check"></i><b>1.2</b> Abstract</a></li>
+<li class="chapter" data-level="1.3" data-path="04_art01.html"><a href="04_art01.html#palabras-claves"><i class="fa fa-check"></i><b>1.3</b> Palabras claves</a></li>
+<li class="chapter" data-level="1.4" data-path="04_art01.html"><a href="04_art01.html#introducción"><i class="fa fa-check"></i><b>1.4</b> Introducción</a></li>
+<li class="chapter" data-level="1.5" data-path="04_art01.html"><a href="04_art01.html#artículo"><i class="fa fa-check"></i><b>1.5</b> Artículo</a></li>
+<li class="chapter" data-level="1.6" data-path="04_art01.html"><a href="04_art01.html#resultados"><i class="fa fa-check"></i><b>1.6</b> Resultados</a></li>
+<li class="chapter" data-level="1.7" data-path="04_art01.html"><a href="04_art01.html#conclusiones"><i class="fa fa-check"></i><b>1.7</b> Conclusiones</a></li>
+<li class="chapter" data-level="1.8" data-path="04_art01.html"><a href="04_art01.html#recomendaciones"><i class="fa fa-check"></i><b>1.8</b> Recomendaciones</a></li>
+<li class="chapter" data-level="1.9" data-path="04_art01.html"><a href="04_art01.html#referencias"><i class="fa fa-check"></i><b>1.9</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="05_art02.html"><a href="05_art02.html"><i class="fa fa-check"></i><b>2</b> Iniciativas de apoyo y bienestar docente en la Facultad de Ingeniería de la Universidad de San Carlos de Guatemala</a><ul>
+<li class="chapter" data-level="2.1" data-path="05_art02.html"><a href="05_art02.html#resumen-1"><i class="fa fa-check"></i><b>2.1</b> Resumen</a></li>
+<li class="chapter" data-level="2.2" data-path="05_art02.html"><a href="05_art02.html#abstract-1"><i class="fa fa-check"></i><b>2.2</b> Abstract</a></li>
+<li class="chapter" data-level="2.3" data-path="05_art02.html"><a href="05_art02.html#palabras-claves-1"><i class="fa fa-check"></i><b>2.3</b> Palabras claves</a></li>
+<li class="chapter" data-level="2.4" data-path="05_art02.html"><a href="05_art02.html#introducción-1"><i class="fa fa-check"></i><b>2.4</b> Introducción</a></li>
+<li class="chapter" data-level="2.5" data-path="05_art02.html"><a href="05_art02.html#artículo-1"><i class="fa fa-check"></i><b>2.5</b> Artículo</a></li>
+<li class="chapter" data-level="2.6" data-path="05_art02.html"><a href="05_art02.html#conclusiones-1"><i class="fa fa-check"></i><b>2.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="2.7" data-path="05_art02.html"><a href="05_art02.html#recomendaciones-1"><i class="fa fa-check"></i><b>2.7</b> Recomendaciones</a></li>
+<li class="chapter" data-level="2.8" data-path="05_art02.html"><a href="05_art02.html#referencias-1"><i class="fa fa-check"></i><b>2.8</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="06_art03.html"><a href="06_art03.html"><i class="fa fa-check"></i><b>3</b> La tutela internacional de los derechos laborales de los trabajadores públicos</a><ul>
+<li class="chapter" data-level="3.1" data-path="06_art03.html"><a href="06_art03.html#resumen-2"><i class="fa fa-check"></i><b>3.1</b> Resumen</a></li>
+<li class="chapter" data-level="3.2" data-path="06_art03.html"><a href="06_art03.html#abstract-2"><i class="fa fa-check"></i><b>3.2</b> Abstract</a></li>
+<li class="chapter" data-level="3.3" data-path="06_art03.html"><a href="06_art03.html#palabras-claves-2"><i class="fa fa-check"></i><b>3.3</b> Palabras claves</a></li>
+<li class="chapter" data-level="3.4" data-path="06_art03.html"><a href="06_art03.html#introducción-2"><i class="fa fa-check"></i><b>3.4</b> Introducción</a></li>
+<li class="chapter" data-level="3.5" data-path="06_art03.html"><a href="06_art03.html#artículo-2"><i class="fa fa-check"></i><b>3.5</b> Artículo</a></li>
+<li class="chapter" data-level="3.6" data-path="06_art03.html"><a href="06_art03.html#conclusión-y-recomendaciones"><i class="fa fa-check"></i><b>3.6</b> Conclusión y recomendaciones</a></li>
+<li class="chapter" data-level="3.7" data-path="06_art03.html"><a href="06_art03.html#referencias-2"><i class="fa fa-check"></i><b>3.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="07_art04.html"><a href="07_art04.html"><i class="fa fa-check"></i><b>4</b> Mejora del rendimiento en el uso de sistemas informáticos por medio de la capacitación</a><ul>
+<li class="chapter" data-level="4.1" data-path="07_art04.html"><a href="07_art04.html#desarrollo-del-estudio"><i class="fa fa-check"></i><b>4.1</b> Desarrollo del estudio</a></li>
+<li class="chapter" data-level="4.2" data-path="07_art04.html"><a href="07_art04.html#conclusiones-2"><i class="fa fa-check"></i><b>4.2</b> Conclusiones</a></li>
+<li class="chapter" data-level="4.3" data-path="07_art04.html"><a href="07_art04.html#recomendaciones-2"><i class="fa fa-check"></i><b>4.3</b> Recomendaciones</a></li>
+<li class="chapter" data-level="4.4" data-path="07_art04.html"><a href="07_art04.html#referencias-3"><i class="fa fa-check"></i><b>4.4</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="08_art05.html"><a href="08_art05.html"><i class="fa fa-check"></i><b>5</b> Metrología de tiempo y frecuencia y sistema de posicionamiento global</a><ul>
+<li class="chapter" data-level="5.1" data-path="08_art05.html"><a href="08_art05.html#introducción-3"><i class="fa fa-check"></i><b>5.1</b> Introducción</a></li>
+<li class="chapter" data-level="5.2" data-path="08_art05.html"><a href="08_art05.html#artículo-3"><i class="fa fa-check"></i><b>5.2</b> Artículo</a></li>
+<li class="chapter" data-level="5.3" data-path="08_art05.html"><a href="08_art05.html#recomendaciones-3"><i class="fa fa-check"></i><b>5.3</b> Recomendaciones</a></li>
+<li class="chapter" data-level="5.4" data-path="08_art05.html"><a href="08_art05.html#referencias-4"><i class="fa fa-check"></i><b>5.4</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="09_art06.html"><a href="09_art06.html"><i class="fa fa-check"></i><b>6</b> Metrología química: La ciencia que garantiza la exactitud en la ingeniería química</a><ul>
+<li class="chapter" data-level="6.1" data-path="09_art06.html"><a href="09_art06.html#introducción-4"><i class="fa fa-check"></i><b>6.1</b> Introducción</a></li>
+<li class="chapter" data-level="6.2" data-path="09_art06.html"><a href="09_art06.html#artículo-4"><i class="fa fa-check"></i><b>6.2</b> Artículo</a></li>
+<li class="chapter" data-level="6.3" data-path="09_art06.html"><a href="09_art06.html#conclusión"><i class="fa fa-check"></i><b>6.3</b> Conclusión</a></li>
+<li class="chapter" data-level="6.4" data-path="09_art06.html"><a href="09_art06.html#referencias-5"><i class="fa fa-check"></i><b>6.4</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="10_art07.html"><a href="10_art07.html"><i class="fa fa-check"></i><b>7</b> Plataformas de gobernanza de IA</a><ul>
+<li class="chapter" data-level="7.1" data-path="10_art07.html"><a href="10_art07.html#resumen-3"><i class="fa fa-check"></i><b>7.1</b> Resumen</a></li>
+<li class="chapter" data-level="7.2" data-path="10_art07.html"><a href="10_art07.html#abstract-3"><i class="fa fa-check"></i><b>7.2</b> Abstract</a></li>
+<li class="chapter" data-level="7.3" data-path="10_art07.html"><a href="10_art07.html#palabras-clave"><i class="fa fa-check"></i><b>7.3</b> Palabras clave</a></li>
+<li class="chapter" data-level="7.4" data-path="10_art07.html"><a href="10_art07.html#introducción-5"><i class="fa fa-check"></i><b>7.4</b> Introducción</a></li>
+<li class="chapter" data-level="7.5" data-path="10_art07.html"><a href="10_art07.html#artículo-5"><i class="fa fa-check"></i><b>7.5</b> Artículo</a></li>
+<li class="chapter" data-level="7.6" data-path="10_art07.html"><a href="10_art07.html#conclusiones-3"><i class="fa fa-check"></i><b>7.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="7.7" data-path="10_art07.html"><a href="10_art07.html#referencias-6"><i class="fa fa-check"></i><b>7.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="11_art08.html"><a href="11_art08.html"><i class="fa fa-check"></i><b>8</b> Criptografía postcuántica</a><ul>
+<li class="chapter" data-level="8.1" data-path="11_art08.html"><a href="11_art08.html#resumen-4"><i class="fa fa-check"></i><b>8.1</b> Resumen</a></li>
+<li class="chapter" data-level="8.2" data-path="11_art08.html"><a href="11_art08.html#abstract-4"><i class="fa fa-check"></i><b>8.2</b> Abstract</a></li>
+<li class="chapter" data-level="8.3" data-path="11_art08.html"><a href="11_art08.html#palabras-clave-1"><i class="fa fa-check"></i><b>8.3</b> Palabras clave</a></li>
+<li class="chapter" data-level="8.4" data-path="11_art08.html"><a href="11_art08.html#introducción-6"><i class="fa fa-check"></i><b>8.4</b> Introducción</a></li>
+<li class="chapter" data-level="8.5" data-path="11_art08.html"><a href="11_art08.html#artículo-6"><i class="fa fa-check"></i><b>8.5</b> Artículo</a></li>
+<li class="chapter" data-level="8.6" data-path="11_art08.html"><a href="11_art08.html#conclusiones-4"><i class="fa fa-check"></i><b>8.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="8.7" data-path="11_art08.html"><a href="11_art08.html#referencias-7"><i class="fa fa-check"></i><b>8.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="12_art09.html"><a href="12_art09.html"><i class="fa fa-check"></i><b>9</b> Diagnóstico actual del Parque Ecológico Las Ardillas mediante jornada limpieza, identificación de flora y análisis del suelo</a><ul>
+<li class="chapter" data-level="9.1" data-path="12_art09.html"><a href="12_art09.html#resumen-5"><i class="fa fa-check"></i><b>9.1</b> Resumen</a></li>
+<li class="chapter" data-level="9.2" data-path="12_art09.html"><a href="12_art09.html#abstract-5"><i class="fa fa-check"></i><b>9.2</b> Abstract</a></li>
+<li class="chapter" data-level="9.3" data-path="12_art09.html"><a href="12_art09.html#palabras-clave-2"><i class="fa fa-check"></i><b>9.3</b> Palabras clave</a></li>
+<li class="chapter" data-level="9.4" data-path="12_art09.html"><a href="12_art09.html#introducción-7"><i class="fa fa-check"></i><b>9.4</b> Introducción</a></li>
+<li class="chapter" data-level="9.5" data-path="12_art09.html"><a href="12_art09.html#artículo-7"><i class="fa fa-check"></i><b>9.5</b> Artículo</a></li>
+<li class="chapter" data-level="9.6" data-path="12_art09.html"><a href="12_art09.html#conclusiones-5"><i class="fa fa-check"></i><b>9.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="9.7" data-path="12_art09.html"><a href="12_art09.html#recomendaciones-4"><i class="fa fa-check"></i><b>9.7</b> Recomendaciones</a></li>
+<li class="chapter" data-level="9.8" data-path="12_art09.html"><a href="12_art09.html#referencias-8"><i class="fa fa-check"></i><b>9.8</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="13_art10.html"><a href="13_art10.html"><i class="fa fa-check"></i><b>10</b> Robots polifuncionales: evolución, tecnologías habilitadoras, aplicaciones industriales y tendencias futuras en la robótica</a><ul>
+<li class="chapter" data-level="10.1" data-path="13_art10.html"><a href="13_art10.html#resumen-6"><i class="fa fa-check"></i><b>10.1</b> Resumen</a></li>
+<li class="chapter" data-level="10.2" data-path="13_art10.html"><a href="13_art10.html#abstract-6"><i class="fa fa-check"></i><b>10.2</b> Abstract</a></li>
+<li class="chapter" data-level="10.3" data-path="13_art10.html"><a href="13_art10.html#palabras-clave-3"><i class="fa fa-check"></i><b>10.3</b> Palabras clave</a></li>
+<li class="chapter" data-level="10.4" data-path="13_art10.html"><a href="13_art10.html#introducción-8"><i class="fa fa-check"></i><b>10.4</b> Introducción</a></li>
+<li class="chapter" data-level="10.5" data-path="13_art10.html"><a href="13_art10.html#artículo-8"><i class="fa fa-check"></i><b>10.5</b> Artículo</a></li>
+<li class="chapter" data-level="10.6" data-path="13_art10.html"><a href="13_art10.html#conclusiones-6"><i class="fa fa-check"></i><b>10.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="10.7" data-path="13_art10.html"><a href="13_art10.html#referencias-9"><i class="fa fa-check"></i><b>10.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="contraportada.html"><a href="contraportada.html"><i
+                                class="fa fa-check"></i><b>Contraportada</a>
+                        <ul>
+                    </li>
+<li class="divider"></li>
+<li><a href="https://portal.ingenieria.usac.edu.gt" target="blank">Facultad de Ingeniería - USAC</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Revista digital de la unidad de prácticas de ingeniería y EPS</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="art08" class="section level1 hasAnchor">
+<h1><span class="header-section-number">8</span> Criptografía postcuántica<a href="11_art08.html#art08" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p><img src="autores/art08.png" width="100%" style="display: block; margin: auto;" /></p>
+
+<div id="resumen-4" class="section level2 hasAnchor">
+<h2><span class="header-section-number">8.1</span> Resumen<a href="11_art08.html#resumen-4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>La criptografía postcuántica surge ante la amenaza que representan las computadoras cuánticas a los métodos de criptografía que se utilizan actualmente. El fenómeno Store Now, Decrypt Later, consiste en almacenar información personal como contraseñas, información bancaria, datos más sensibles como investigación industrial y farmacológica o inteligencia gubernamental, todo esto con la finalidad de poder desencriptarlas y utilizarlas a futuro.</p>
+<p>Esta información es importante protegerla hoy, ya que hay datos que aún tendrán valor en una década o más. La administración de seguridad nacional de los Estados Unidos señala en el documento “U.S. National Security Agency Issues Update on Quantum Computing Threat” lo siguiente: “un computador cuántico criptanalíticamente relevante (CRQC) sería capaz de socavar los algoritmos de clave pública ampliamente utilizados”.</p>
+<p>Este riesgo ya es ampliamente conocido, por lo cual en este artículo se abordan los fundamentos de la computación cuántica, la evolución de los estándares de criptografía resistentes a la era cuántica y las iniciativas legales y tecnológicas que buscan mitigar el riesgo que esto representa.</p>
+</div>
+<div id="abstract-4" class="section level2 hasAnchor">
+<h2><span class="header-section-number">8.2</span> Abstract<a href="11_art08.html#abstract-4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Post-quantum cryptography emerges in the face of the threat that quantum computers pose to currently used cryptographic methods. The “Store Now, Decrypt Later” phenomenon consists of storing sensitive information such as passwords, banking information, more sensitive data like industrial and pharmacological research or government intelligence, all with the purpose of being able to decrypt and use it in the future. This information is important to protect today, since there is data that will still have value in a decade or more. The U.S. National Security Agency states the following in the document “U.S. National Security Agency Issues Update on Quantum Computing Threat”: “a cryptanalytically relevant quantum computer (CRQC) would be capable of undermining widely used public-key algorithms.”</p>
+<p>This risk is already widely known, which is why this article addresses the fundamentals of quantum computing, the evolution of post-quantum cryptography standards, and the legal and technological initiatives that seek to mitigate the risk it represents.</p>
+</div>
+<div id="palabras-clave-1" class="section level2 hasAnchor">
+<h2><span class="header-section-number">8.3</span> Palabras clave<a href="11_art08.html#palabras-clave-1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Criptografía postcuántica, computación cuántica, Store Now, Decrypt Later, cifrado asimétrico</p>
+</div>
+<div id="introducción-6" class="section level2 hasAnchor">
+<h2><span class="header-section-number">8.4</span> Introducción<a href="11_art08.html#introducción-6" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>El fenómeno guarda ahora y desencripta después (Store Now, Decrypt Later) consiste en la práctica de almacenar información sensible que, aunque esté cifrada, podría ser descifrada en el futuro. Con las computadoras modernas no es posible tener acceso a estos datos, incluso si se utilizaran supercomputadoras, que son las máquinas con mayor capacidad que existen actualmente. Con los procesos actuales el proceso de descifrar puede tomar miles de millones de años, dependiendo de la longitud y complejidad del algoritmo utilizado.</p>
+<p>La seguridad actual consiste en sistemas de criptografía asimétrica basados en problemas matemáticos complejos, como la factorización de números primos o el logaritmo discreto. Sin embargo, el avance de la computación cuántica amenaza con descifrar en cuestión de minutos u horas; esto es debido a la capacidad de hacer estos un gran número de cálculos al mismo tiempo.</p>
+<p>Una computadora moderna usa bits, lo cual hace que la información sea procesada de manera secuencial, ya que un bit solo tiene dos estados y solo puede existir en un estado a la vez. Las computadoras cuánticas usan qubits, los cuales están en múltiples estados a la vez; esta característica hace que tenga un enorme poder, permitiendo tener una capacidad superior para el procesamiento de datos capaz de resolver estos problemas en un tiempo mucho menor.
+Por ello, el fenómeno Store Now, Decrypt Later se ha vuelto crítico el desarrollar nuevos métodos de criptografía postcuantía que sean resistentes a los avances de las computadoras cuánticas.</p>
+</div>
+<div id="artículo-6" class="section level2 hasAnchor">
+<h2><span class="header-section-number">8.5</span> Artículo<a href="11_art08.html#artículo-6" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>La criptografía nació de la necesidad de enviar mensajes secretos sin que el enemigo pudiera interceptarlo y descifrar estos mensajes. Desde la era antigua el imperio Romano utilizaba un tipo de cifrado conocido actualmente como “cifrado de César” para enviar órdenes a sus generales. Se encriptaban los mensajes usando esta técnica y se enviaban a través de mensajeros; además se enviaba un mensaje adicional con la clave de descifrado oculto y por una ruta diferente. De esta forma si un mensajero era capturado, no se tendría la información completa para descifrar el mensaje.</p>
+<p>Durante la Segunda Guerra Mundial la Alemania nazi, se utilizó una máquina llamada enigma para encriptar todas sus comunicaciones; la particularidad de esta máquina es que podía cifrar y descifrar los mensajes utilizando solamente esta. Los mensajes parecían indescifrables, ya que el sistema cambiaba algo diariamente. Hasta que Alan Turing utilizó las matemáticas y una máquina electromagnética que él mismo inventó para acelerar el proceso de descifrar la configuración de la máquina Enigma.</p>
+<p>Con la llegada del internet, esta necesidad de encriptar y proteger la comunicación digital se hizo necesaria. Al principio, se utilizaron técnicas de criptografía simétrica, donde tanto el emisor como el receptor utilizaban una misma clave secreta para encriptar y desencriptar los mensajes. Este método era poco práctico, ya que se tenían que intercambiar claves de manera presencial, debido a que enviarlas a través de internet era inseguro y si se filtraba esta, comprometía en gran manera las comunicaciones; esto sentó las bases para el siguiente avance.</p>
+<p>En los años noventa, los científicos Ron Rivest, Adi Shamir y Leonard Adleman, inventaron el algoritmo RSA, que es la primera implementación de la criptografía de clave pública o asimétrica. La seguridad de esta consiste en usar una clave pública y una privada; el mensaje solo puede ser descifrado con la parte privada, así que incluso si la pública es interceptada, la dificultad consiste en descifrar la clave privada a partir de la clave pública mediante métodos de factorización; esto es sumamente difícil para las computadoras clásicas. Actualmente se sigue utilizando este tipo de cifrado, ya que hasta ahora ha sido la más segura, pero esto está cambiando, no por una amenaza actual, sino por una tecnología que está creciendo y es el futuro de la computación: la computación cuántica.</p>
+
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-71"></span>
+<img src="imagenes_articulos/art08_01.png" alt="Uso de bits y qubits en las computadoras clásica y cuántica"  />
+<p class="caption">
+Figura 8.1: Uso de bits y qubits en las computadoras clásica y cuántica
+</p>
+</div>
+
+<p>Para la computación clásica no es posible descifrar los algoritmos actuales; el proceso de descifrar puede tomar miles de millones de años, dependiendo de la longitud y complejidad del algoritmo utilizado. Pero para la computación cuántica es posible, ya que usan qubits, los cuales están en múltiples estados a la vez y esta característica hace que tengan un enorme poder, permitiendo tener una capacidad superior para el procesamiento de datos, capaz de resolver estos problemas en un tiempo mucho menor.</p>
+<p>En la actualidad se está guardando una gran cantidad de datos tales como contraseñas, información bancaria, datos más sensibles como investigación industrial y farmacológica o inteligencia gubernamental, con el fin de poder desencriptarlo en un futuro.</p>
+<p>A este fenómeno se le llama Store Now, Decrypt Later. Esta información es importante protegerla hoy, ya que hay datos que aún tendrán valor en una década o más; la administración de seguridad nacional de los Estados Unidos dice en el documento “U.S. National Security Agency Issues Update on Quantum Computing Threat lo siguiente: “un computador cuántico criptanalíticamente relevante (CRQC) sería capaz de socavar los algoritmos de clave pública ampliamente utilizados”.</p>
+<p>Actualmente hay iniciativas globales orientadas hacia la era cuántica para mitigar los riesgos. Diversas regiones y países han publicado iniciativas y estas son las más conocidas:</p>
+<ul>
+<li><p>Quantum Computing Cybersecurity Preparedness Act (EE. UU.): exige a agencias federales migrar hacia algoritmos resistentes a la computación cuántica.</p></li>
+<li>EuroQCI (European Quantum Communication Infrastructure): busca desplegar una red de comunicaciones cuánticas seguras a nivel europeo.</li>
+<li><p>Ley de Criptografía de la República Popular China: regula y fomenta el desarrollo de tecnologías criptográficas, incluyendo las resistentes al cómputo cuántico.</p></li>
+<li><p>Planning for Post-Quantum Cryptography (NIST, EE. UU.): iniciativa para estandarizar algoritmos postcuánticos de uso global.</p></li>
+</ul>
+<p>Todas estas coinciden en dos puntos centrales: la urgencia de migrar a soluciones resistentes y la cooperación internacional para garantizar la seguridad digital en la próxima década.</p>
+<p>La criptografía postcuántica busca diseñar algoritmos que mantengan su seguridad, incluso frente a un computador cuántico. Estos se basan en problemas matemáticos distintos como redes euclidianas, códigos de corrección de errores o funciones hash resistentes. Un ejemplo intuitivo es la representación de datos como vectores en espacios de alta dimensión, generados de manera aleatoria, lo que dificulta enormemente su resolución aún para un sistema cuántico.</p>
+<p>La institución que lidera este proceso de estandarización es la NIST (Instituto Nacional de Estándares y Tecnología de Estados Unidos) su finalidad es la estandarización de algoritmos frente a ataques de computadoras cuánticas; se espera la adopción global de estas en preparación para los próximos años.</p>
+
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-73"></span>
+<img src="imagenes_articulos/art08_02.png" alt="Criptografía postcuántica"  />
+<p class="caption">
+Figura 8.2: Criptografía postcuántica
+</p>
+</div>
+
+</div>
+<div id="conclusiones-4" class="section level2 hasAnchor">
+<h2><span class="header-section-number">8.6</span> Conclusiones<a href="11_art08.html#conclusiones-4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>La llegada de la computación cuántica es una amenaza latente. La criptografía actual, basada en la dificultad computacional de ciertos problemas matemáticos, será insuficiente frente al poder de cómputo cuántico. Las iniciativas legislativas y tecnológicas alrededor del mundo señalan que es necesario a migrar a algoritmos resistentes cuanto antes. El desafío es mejorar las prácticas de los usuarios, fomentar la educación en ciberseguridad, apostar por la cooperación internacional y prepararse hoy para asegurar la información.</p>
+</div>
+<div id="referencias-7" class="section level2 hasAnchor">
+<h2><span class="header-section-number">8.7</span> Referencias<a href="11_art08.html#referencias-7" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><p>[1] IBM Quantum (2025). IBM Quantum Experience. <a href="https://quantum-computing.ibm.com" class="uri">https://quantum-computing.ibm.com</a></p></li>
+<li><p>[2] National Institute of Standards and Technology (NIST) (2025). Post-Quantum Cryptography Standardization.</p></li>
+<li><p>[3] Santaolalla, J. (2024). Cómo el cómputo cuántico rompe el internet, desde ahora. [Vídeo]. YouTube. <a href="https://www.youtube.com/watch?v=xymGpIeNc88" class="uri">https://www.youtube.com/watch?v=xymGpIeNc88</a>.</p></li>
+</ul>
+
+
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="10_art07.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="12_art09.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": null,
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["NovenaEdicion-RevistaDigital.pdf", "NovenaEdicion-RevistaDigital.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>
